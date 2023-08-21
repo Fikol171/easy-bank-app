@@ -12,7 +12,8 @@ export const GlobalStyles = createGlobalStyle`
     background-color: ${({ theme }) => theme.color.VeryLightGray};
     font-family: 'Public', sans-serif;
     word-break: break-word;
-    overflow-y: scroll;
-    scroll-behavior:smooth;
+    overflow-x:hidden;
+    max-width:1300px;
+    margin:0 auto;
 }
 `;
