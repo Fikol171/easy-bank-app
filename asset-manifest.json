@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.js": "/easy-bank-landing-page/static/js/main.118bdd9b.js",
+    "main.js": "/easy-bank-landing-page/static/js/main.13c06b4e.js",
     "static/js/787.5298bc69.chunk.js": "/easy-bank-landing-page/static/js/787.5298bc69.chunk.js",
+    "static/media/image-currency.jpg": "/easy-bank-landing-page/static/media/image-currency.1b385bf9f62bf25ef22d.jpg",
+    "static/media/image-restaurant.jpg": "/easy-bank-landing-page/static/media/image-restaurant.1951b57675babfd83c6c.jpg",
+    "static/media/image-plane.jpg": "/easy-bank-landing-page/static/media/image-plane.03db115dff75876c3f3d.jpg",
+    "static/media/image-confetti.jpg": "/easy-bank-landing-page/static/media/image-confetti.67921b1124297023a080.jpg",
+    "static/media/icon-api.svg": "/easy-bank-landing-page/static/media/icon-api.74c8ad1751bbd1e7f545e458f9306885.svg",
+    "static/media/icon-onboarding.svg": "/easy-bank-landing-page/static/media/icon-onboarding.d74aed6429619336a30e42334d6eb432.svg",
     "static/media/logo.svg": "/easy-bank-landing-page/static/media/logo.4d7cebc59950e27d6f943b4c63129d81.svg",
+    "static/media/icon-budgeting.svg": "/easy-bank-landing-page/static/media/icon-budgeting.ad7169975ea1eda87072ea0325a8204a.svg",
+    "static/media/bg-intro-desktop.svg": "/easy-bank-landing-page/static/media/bg-intro-desktop.ac6132632252d36b064e522566c4b60c.svg",
+    "static/media/icon-online.svg": "/easy-bank-landing-page/static/media/icon-online.b0622b15741418e9efe3805d1b2ac26b.svg",
     "index.html": "/easy-bank-landing-page/index.html",
-    "main.118bdd9b.js.map": "/easy-bank-landing-page/static/js/main.118bdd9b.js.map",
+    "main.13c06b4e.js.map": "/easy-bank-landing-page/static/js/main.13c06b4e.js.map",
     "787.5298bc69.chunk.js.map": "/easy-bank-landing-page/static/js/787.5298bc69.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.118bdd9b.js"
+    "static/js/main.13c06b4e.js"
   ]
 }
