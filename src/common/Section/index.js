@@ -1,11 +1,11 @@
-import { Title } from "./styled";
+import { Container, Title } from "./styled";
 
 const Section = ({ title, body }) => {
   return (
-    <div>
+    <Container>
       <Title>{title}</Title>
       <div>{body}</div>
-    </div>
+    </Container>
   );
 };
 export default Section;
